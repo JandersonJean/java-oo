@@ -7,6 +7,9 @@ import entities.Triangle;
 public class Program {
 	public static void main(String[] args) {
 		
+		//Classe: É a definição do tipo.
+		//Objetos: São instancias da classe.
+		
 		Scanner sc = new Scanner(System.in);
 		
 		Triangle x,y;

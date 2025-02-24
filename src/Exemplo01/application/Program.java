@@ -1,8 +1,8 @@
-package application;
+package Exemplo01.application;
 
 import java.util.Scanner;
 
-import entities.Triangle;
+import Exemplo01.entities.Triangle;
 
 public class Program {
 	public static void main(String[] args) {
